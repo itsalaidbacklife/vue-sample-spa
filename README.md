@@ -1,7 +1,4 @@
 # vue-sample-spa
-<<<<<<< HEAD
-A boilerplate example Single Page Application built with Vue
-=======
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -69,4 +66,3 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
->>>>>>> e82b90d (initial commit)
