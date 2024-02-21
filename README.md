@@ -55,3 +55,8 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+### Format with [Prettier](https://prettier.io/)
+```sh
+npm run format
+```
